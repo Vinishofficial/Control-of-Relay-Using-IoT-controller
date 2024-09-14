@@ -1,6 +1,8 @@
 # Control-of-Relay-Using-IoT-controller
+```
 NAME : VINISHRAJ R
 REG NO : 212223230243
+```
 
 ##  AIM:
 To control the Relay using Arduino controller
